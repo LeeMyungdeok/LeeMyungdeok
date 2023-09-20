@@ -1,5 +1,5 @@
 ## 😄Introduction
-Hello, I'm a web back-and developer who loves to create and show new things. I'm still thinking about something new.
+Hello, I'm a web back-end developer who loves to create and show new things. I'm still thinking about something new.
 
 ## 👨🏻‍💻Tech
 ![](https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)
